@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class AndroidBasicsStarter extends ListActivity {
-	String tests[] = {"BodyTest", "FirstTriangleTest", "IndexedTest", "CanonTest" }; 
+	String tests[] = {"BodyTest", "FirstTriangleTest", "IndexedTest", "CanonTest", "CanonGravityTest" }; 
 	
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
